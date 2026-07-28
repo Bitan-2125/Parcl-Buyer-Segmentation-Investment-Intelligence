@@ -114,6 +114,3 @@ Rather than picking the highest-scoring persona for each cluster one at a time â
 The LNM Institute of Information Technology (LNMIIT), Jaipur
 ðŸ“§ 23uec529@lnmiit.ac.in
 
-## License
-
-Add a license of your choice (e.g. MIT) before publishing this repository.
